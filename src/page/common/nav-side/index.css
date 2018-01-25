@@ -1,0 +1,22 @@
+/*
+* @Author: 孙宇鹏
+* @Date:   2018-01-02 15:40:17
+* @Last Modified by:   孙宇鹏
+* @Last Modified time: 2018-01-02 15:46:30
+*/
+.nav-side{
+    float: left;
+    widows: 130px;
+}
+.content.with-nav{
+    float: left;
+    width: 950px;
+}
+.nav-side .nav-item{
+    line-height: 25px;
+    font-size: 13px;
+    color:#666;
+}
+.nav-side .nav-item.active .link{
+    color: #c60023;
+}

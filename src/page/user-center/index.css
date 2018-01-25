@@ -1,0 +1,16 @@
+/*
+* @Author: 孙宇鹏
+* @Date:   2018-01-05 22:47:41
+* @Last Modified by:   孙宇鹏
+* @Last Modified time: 2018-01-05 23:20:13
+*/
+.form-line{
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+}
+.form-line .label{
+    width: 60px;
+    display: inline-block;
+    text-align: center;
+}
